@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-My name is Blandine Jarysta. I live near Lille, France, and I recently finished a 6-month JavaScript-centric course at École O'clock.
+My name is Blandine Jarysta. I live near Lille, France, and I recently finished a 6-month JavaScript-centric course at École O'clock. I'm currently in an apprenticeship with the same school, working at Squadeasy in Paris.
 
-I'm a junior developer and I use HTML, CSS, JavaScript, NodeJS, Express, and PostgreSQL. I've also been teaching myself React. I strive to improve my skills and am constantly willing to learn new things! 😍
+I'm a junior developer and I use HTML, CSS, JavaScript, NodeJS, Express, PostgreSQL, React and Redux. I strive to improve my skills and am constantly willing to learn new things! 😍
 
 You can view my portfolio [here](https://blandinejarysta.netlify.app/). 😊 (*For now, it's only available in French, but I would like to make it available in English in the near future.*)
 
