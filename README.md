@@ -8,8 +8,6 @@ In July 2023, I started working for Kiloutou as a back-end developer. I use Type
 
 Through my past and current experiences, I have taken part in a lot of agile practices and got interested in craftsmanship. I strive to improve my skills and am constantly willing to learn new things! 😍
 
-You can view my portfolio [here](https://blandinejarysta.netlify.app/). 😊 (*It hasn't been updated since 2021 but I'm leaving it there until I make a new one!*)
-
 Before switching career paths to study web development, I was an English to French translator and proofreader for a brief period of time. 
 
 ### Miscellaneous
